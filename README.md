@@ -43,8 +43,7 @@ docker-compose up -d --build
 ### 3. Access the Swagger UI
 Open your browser and go to:
 ```bash
-[docker-compose up -d --build](http://localhost:3000/api-docs
-)
+http://localhost:3000/api-docs
 ```
 From there, you can interactively test all endpoints (register, login, get users, etc.).
 
