@@ -36,5 +36,11 @@ git clone https://github.com/your-username/node-jwt-crud-api.git
 cd node-jwt-crud-api
 
 
+### 2. Run the app using Docker
+
+```bash
+docker-compose up -d --build
+
+
 
 
