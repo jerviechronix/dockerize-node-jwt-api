@@ -34,13 +34,20 @@ This is a **Node.js Express API** that supports full **CRUD operations** with **
 ```bash
 git clone https://github.com/your-username/node-jwt-crud-api.git
 cd node-jwt-crud-api
-
+```
 
 ### 2. Run the app using Docker
-
 ```bash
 docker-compose up -d --build
+```
+### 3. Access the Swagger UI
+Open your browser and go to:
+```bash
+[docker-compose up -d --build](http://localhost:3000/api-docs
+)
+```
+From there, you can interactively test all endpoints (register, login, get users, etc.).
 
 
 
-
+*** JERVIE KNOWS *** :)
